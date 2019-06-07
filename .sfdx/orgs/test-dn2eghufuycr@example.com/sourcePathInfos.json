@@ -1,0 +1,167 @@
+[
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1559663047151,
+            "changeTime": 1559663047151,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1559663047151,
+            "changeTime": 1559663047151,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1559663047152,
+            "changeTime": 1559663047152,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1559663481984,
+            "changeTime": 1559663481984,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1559663539794,
+            "changeTime": 1559663539794,
+            "contentHash": "fa4d2cd8d9c9aae8f55bbf94a0afe0eb12c0b088",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1559713203243,
+            "changeTime": 1559713203243,
+            "contentHash": "9ef5cb00da56d2647038e4cb9f0cad8505be7dbe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 283,
+            "modifiedTime": 1559664002619,
+            "changeTime": 1559664002619,
+            "contentHash": "2a38ac522982b9bb18973551bf05f45e49971f96",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5288,
+            "modifiedTime": 1559663982897,
+            "changeTime": 1559663982899,
+            "contentHash": "4768c4ddaad3dffff4fd9f07cf0cf441e7e28aea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1559663539794,
+            "changeTime": 1559663539794,
+            "contentHash": "a3a5dcc761dc1d10cd862e59541c18dba6f5e1ff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1559713203133,
+            "changeTime": 1559713203134,
+            "contentHash": "fedad28814abb21ff938c1510fb332451a4556ae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1559713250523,
+            "changeTime": 1559713250523,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

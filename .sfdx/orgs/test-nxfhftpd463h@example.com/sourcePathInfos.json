@@ -1,0 +1,2607 @@
+[
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1559663047151,
+            "changeTime": 1559663047151,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1559663047151,
+            "changeTime": 1559663047151,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1559881843372,
+            "changeTime": 1559881843372,
+            "contentHash": "946420861a683f6883288f82defdfab27e5b0265"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 480,
+            "modifiedTime": 1559881843167,
+            "changeTime": 1559881843167,
+            "contentHash": "44119300ca08d9e2b53f7a4825542810dc443c95"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1559663539794,
+            "changeTime": 1559663539794,
+            "contentHash": "fa4d2cd8d9c9aae8f55bbf94a0afe0eb12c0b088",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1559798690328,
+            "changeTime": 1559798690328,
+            "contentHash": "9ef5cb00da56d2647038e4cb9f0cad8505be7dbe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.css",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.css",
+            "isDirectory": false,
+            "size": 283,
+            "modifiedTime": 1559664002619,
+            "changeTime": 1559664002619,
+            "contentHash": "2a38ac522982b9bb18973551bf05f45e49971f96",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.html",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.html",
+            "isDirectory": false,
+            "size": 5288,
+            "modifiedTime": 1559663982897,
+            "changeTime": 1559663982899,
+            "contentHash": "4768c4ddaad3dffff4fd9f07cf0cf441e7e28aea",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.js",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.js",
+            "isDirectory": false,
+            "size": 101,
+            "modifiedTime": 1559663539794,
+            "changeTime": 1559663539794,
+            "contentHash": "a3a5dcc761dc1d10cd862e59541c18dba6f5e1ff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.js-meta.xml",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/lwc/firstLayout/firstLayout.js-meta.xml",
+            "isDirectory": false,
+            "size": 358,
+            "modifiedTime": 1559713203133,
+            "changeTime": 1559713203134,
+            "contentHash": "fedad28814abb21ff938c1510fb332451a4556ae",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1559881831842,
+            "changeTime": 1559713250523,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultItem/customSearchResultItem.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultItem/customSearchResultItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1559876383882,
+            "changeTime": 1559876383882,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultItem/customSearchResultItem.cmp",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultItem/customSearchResultItem.cmp",
+            "isDirectory": false,
+            "size": 1118,
+            "modifiedTime": 1559876383883,
+            "changeTime": 1559876383883,
+            "contentHash": "f18b5cbf9e39b546cf58282904c1d32c9078fe96",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearch/customSearch.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearch/customSearch.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1559876383884,
+            "changeTime": 1559876383884,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearch/customSearch.cmp",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearch/customSearch.cmp",
+            "isDirectory": false,
+            "size": 675,
+            "modifiedTime": 1559876383885,
+            "changeTime": 1559876383885,
+            "contentHash": "8c5c1b4eb49346f77cda4e5b69c3e07906d2820b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearch/customSearchController.js",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearch/customSearchController.js",
+            "isDirectory": false,
+            "size": 477,
+            "modifiedTime": 1559876383885,
+            "changeTime": 1559876383885,
+            "contentHash": "9512d81addaab61c654e1ce1b458f7e536bbb5f4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1559876383886,
+            "changeTime": 1559876383886,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+            "isDirectory": false,
+            "size": 58,
+            "modifiedTime": 1559876383886,
+            "changeTime": 1559876383886,
+            "contentHash": "8492ffeb6b96fc55e26263d1a5982a9a3d56a24e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/verticalNav/verticalNav.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/verticalNav/verticalNav.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1559876383887,
+            "changeTime": 1559876383887,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/verticalNav/verticalNavController.js",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/verticalNav/verticalNavController.js",
+            "isDirectory": false,
+            "size": 181,
+            "modifiedTime": 1559876383887,
+            "changeTime": 1559876383887,
+            "contentHash": "f9e8e0e11c33a5b6c0df00f0b80d5f6bd977dffb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/verticalNav/verticalNav.cmp",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/verticalNav/verticalNav.cmp",
+            "isDirectory": false,
+            "size": 604,
+            "modifiedTime": 1559876383887,
+            "changeTime": 1559876383887,
+            "contentHash": "b3ba7773bb7c3ffc359e4ee4c3ce2c48f911a3ed",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultsList/customSearchResultsList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultsList/customSearchResultsList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1559876383888,
+            "changeTime": 1559876383888,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultsList/customSearchResultsListController.js",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultsList/customSearchResultsListController.js",
+            "isDirectory": false,
+            "size": 316,
+            "modifiedTime": 1559876383889,
+            "changeTime": 1559876383889,
+            "contentHash": "d0dd20539149f91d2ca97d013f67192591b2d3ac",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultsList/customSearchResultsList.cmp",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultsList/customSearchResultsList.cmp",
+            "isDirectory": false,
+            "size": 376,
+            "modifiedTime": 1559876383889,
+            "changeTime": 1559876383889,
+            "contentHash": "1266bd02f045bd54bf1e5adf98e2ddf553c6317d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/condensedThemeLayout/condensedThemeLayout.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/condensedThemeLayout/condensedThemeLayout.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1559876383890,
+            "changeTime": 1559876383890,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/condensedThemeLayout/condensedThemeLayout.design",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/condensedThemeLayout/condensedThemeLayout.design",
+            "isDirectory": false,
+            "size": 135,
+            "modifiedTime": 1559876383890,
+            "changeTime": 1559876383890,
+            "contentHash": "2a64b350fae305709528ba2a8b017034c0efc9ed",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/condensedThemeLayout/condensedThemeLayout.css",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/condensedThemeLayout/condensedThemeLayout.css",
+            "isDirectory": false,
+            "size": 457,
+            "modifiedTime": 1559876383890,
+            "changeTime": 1559876383890,
+            "contentHash": "bcc803e52235f33bdb3cf6f52ea45328dae1dc3c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/condensedThemeLayout/condensedThemeLayout.cmp",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/condensedThemeLayout/condensedThemeLayout.cmp",
+            "isDirectory": false,
+            "size": 1041,
+            "modifiedTime": 1559876383891,
+            "changeTime": 1559876383891,
+            "contentHash": "91cfb7496926d5705e972193c007af58556ec9a6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CustomSearchController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CustomSearchController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559876383892,
+            "changeTime": 1559876383892,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CustomSearchController.cls",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CustomSearchController.cls",
+            "isDirectory": false,
+            "size": 413,
+            "modifiedTime": 1559876383893,
+            "changeTime": 1559876383893,
+            "contentHash": "503ce743705225c9bcc1b7b84c9d144a87a63cf9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 24587,
+            "modifiedTime": 1559881843356,
+            "changeTime": 1559881843356,
+            "contentHash": "1c56b3f73e3cca8516fabfb016fd19454fd94001"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultItem",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultItem",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1559876383883,
+            "changeTime": 1559876383883,
+            "contentHash": "525f0600094fd5a9ab6d0c2280d7ffcc08f3b238",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearch",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearch",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1559876383885,
+            "changeTime": 1559876383885,
+            "contentHash": "4fa8d1c56c801999cd921ccfb6ddf84316bfd3f2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/defaultTokens",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/defaultTokens",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1559876383886,
+            "changeTime": 1559876383886,
+            "contentHash": "9c13df0e131455c056bf7320226e1f7b5dfc93ce",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/verticalNav",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/verticalNav",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1559876383887,
+            "changeTime": 1559876383887,
+            "contentHash": "b863c3a6e0cdf23b2fef0bac7910066b121a42a3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultsList",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/customSearchResultsList",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1559876383889,
+            "changeTime": 1559876383889,
+            "contentHash": "71d5fe778409b63794d45412940f3e99e152c50b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/condensedThemeLayout",
+        {
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/condensedThemeLayout",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1559876383890,
+            "changeTime": 1559876383890,
+            "contentHash": "38ddd0fb2435509dc64321a8872c763ade986fd9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 1664,
+            "modifiedTime": 1559881843307,
+            "changeTime": 1559881843307,
+            "contentHash": "52e66d764e8354f6986cbe5e356f76edf85350e1"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1559881843313,
+            "changeTime": 1559881843313,
+            "contentHash": "d44745f6abd840926d0b5472f70536e21c6b6ed0"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 279,
+            "modifiedTime": 1559881843138,
+            "changeTime": 1559881843138,
+            "contentHash": "d631b8484f7cf65ecbe56127a65e4ec278d8657d"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/SiteStyles.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/SiteStyles.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 402,
+            "modifiedTime": 1559881843144,
+            "changeTime": 1559881843144,
+            "contentHash": "acbb17c79c96e91d9c04ae4c847b7241ccde01de"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/clock.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/clock.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4681,
+            "modifiedTime": 1559881843144,
+            "changeTime": 1559881843144,
+            "contentHash": "6f2f8d42808b3c04c1a2e7d9b6ba37ea7f862ba7"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/construction.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/construction.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 15051,
+            "modifiedTime": 1559881843144,
+            "changeTime": 1559881843144,
+            "contentHash": "322851d6d1ef8caf107caf445de1b6c05caef6bc"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/force_logo.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/force_logo.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1728,
+            "modifiedTime": 1559881843144,
+            "changeTime": 1559881843144,
+            "contentHash": "40bb27e6354b88edcd694651e69ac817cc859541"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/maintenance.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/maintenance.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12247,
+            "modifiedTime": 1559881843145,
+            "changeTime": 1559881843145,
+            "contentHash": "3eae4032e6c554a7c44ec277b10f9fa92de2d6cf"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/poweredby.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/poweredby.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 984,
+            "modifiedTime": 1559881843145,
+            "changeTime": 1559881843145,
+            "contentHash": "a29fa078df1fc18309a8fa02d5941312e4e41344"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/tools.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/tools.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2136,
+            "modifiedTime": 1559881843145,
+            "changeTime": 1559881843145,
+            "contentHash": "06ee26032a159736878decef296cba66ec8d8e25"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/unauthorized.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/unauthorized.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2076,
+            "modifiedTime": 1559881843145,
+            "changeTime": 1559881843145,
+            "contentHash": "74dc855d72862a1f62d1c9ec0535f43a229fb1a4"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/warning.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img/warning.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1767,
+            "modifiedTime": 1559881843146,
+            "changeTime": 1559881843146,
+            "contentHash": "90ef2806b042926ca428c19654b9306555b53429"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm/loginForm.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm/loginForm.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1559881843152,
+            "changeTime": 1559881843152,
+            "contentHash": "0434cdcf463cdc181b3ea135f3ade34f464fecfb"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm/loginForm.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm/loginForm.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1851,
+            "modifiedTime": 1559881843152,
+            "changeTime": 1559881843152,
+            "contentHash": "e863ec165e4c2983bf703eaf60418cf394ead707"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm/loginForm.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm/loginForm.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 546,
+            "modifiedTime": 1559881843152,
+            "changeTime": 1559881843152,
+            "contentHash": "9c45d15bab64fa1cfe6466a3cea52b68fbcc787c"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm/loginForm.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm/loginForm.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4098,
+            "modifiedTime": 1559881843153,
+            "changeTime": 1559881843153,
+            "contentHash": "8cad4a3886eb1be09b766a10c7a0975c6c1fdf46"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm/loginFormController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm/loginFormController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2950,
+            "modifiedTime": 1559881843153,
+            "changeTime": 1559881843153,
+            "contentHash": "64e5af91d1a6454d38258590c1efdfc27222c2ff"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm/loginFormHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm/loginFormHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2872,
+            "modifiedTime": 1559881843153,
+            "changeTime": 1559881843153,
+            "contentHash": "0005d3525bc7e18a24f19df148a2833b4a1ccb5e"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister/selfRegister.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister/selfRegister.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1559881843154,
+            "changeTime": 1559881843154,
+            "contentHash": "66d097c4c1035611b59dbfc3248c07a57336e97c"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister/selfRegister.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister/selfRegister.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5281,
+            "modifiedTime": 1559881843154,
+            "changeTime": 1559881843154,
+            "contentHash": "3fd8be0700fabe1c7aae4090088fbea18e02c349"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister/selfRegisterController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister/selfRegisterController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1183,
+            "modifiedTime": 1559881843155,
+            "changeTime": 1559881843155,
+            "contentHash": "1ac99d86482ed0f2997f150773d0f867705fe610"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister/selfRegisterHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister/selfRegisterHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2424,
+            "modifiedTime": 1559881843155,
+            "changeTime": 1559881843155,
+            "contentHash": "e579fbb4dae5e6c3e604f900719e1c697908fe02"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister/selfRegister.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister/selfRegister.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3412,
+            "modifiedTime": 1559881843155,
+            "changeTime": 1559881843155,
+            "contentHash": "eb17e7321358d4e1f50506328593d32deef7e6ff"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister/selfRegister.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister/selfRegister.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 714,
+            "modifiedTime": 1559881843156,
+            "changeTime": 1559881843156,
+            "contentHash": "c50da00f4f7211befe944a7e800c75a3c31d3c81"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword/forgotPassword.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword/forgotPassword.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 235,
+            "modifiedTime": 1559881843158,
+            "changeTime": 1559881843158,
+            "contentHash": "38020bf4cca0a78b47a2e1f93339bffa4801df62"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword/forgotPassword.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword/forgotPassword.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1743,
+            "modifiedTime": 1559881843158,
+            "changeTime": 1559881843158,
+            "contentHash": "83ef99e93cdcb75639fdd632d2b999fc099d8290"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword/forgotPasswordController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword/forgotPasswordController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 765,
+            "modifiedTime": 1559881843159,
+            "changeTime": 1559881843159,
+            "contentHash": "830df9a34fd83eb9e7916aea616541d67dbc34e6"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword/forgotPasswordHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword/forgotPasswordHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1043,
+            "modifiedTime": 1559881843159,
+            "changeTime": 1559881843159,
+            "contentHash": "2002734bc484699cf8d5f68bb5930de6801e5b3e"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword/forgotPassword.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword/forgotPassword.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1433,
+            "modifiedTime": 1559881843159,
+            "changeTime": 1559881843159,
+            "contentHash": "b23bd13dd4e4a91d377bd7dc39826c44fb349ffd"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword/forgotPassword.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword/forgotPassword.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 299,
+            "modifiedTime": 1559881843160,
+            "changeTime": 1559881843160,
+            "contentHash": "e48bbc8023c88f57af56e6aeb270cb83679a8f3d"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/SampleLayout/SampleLayout.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/SampleLayout/SampleLayout.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1559881843161,
+            "changeTime": 1559881843161,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/SampleLayout/SampleLayout.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/SampleLayout/SampleLayout.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3704,
+            "modifiedTime": 1559881843162,
+            "changeTime": 1559881843162,
+            "contentHash": "73d28500cd3f04aca603190fb0b40ea260a5e33c"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/CommunitySectionLayout/CommunitySectionLayout.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/CommunitySectionLayout/CommunitySectionLayout.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1559881843164,
+            "changeTime": 1559881843164,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/CommunitySectionLayout/CommunitySectionLayout.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/CommunitySectionLayout/CommunitySectionLayout.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 98,
+            "modifiedTime": 1559881843164,
+            "changeTime": 1559881843164,
+            "contentHash": "595a8ffdc9bb595e9183f6fd1df60d6ea2a5aab2"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/CommunitySectionLayout/CommunitySectionLayout.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/CommunitySectionLayout/CommunitySectionLayout.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3097,
+            "modifiedTime": 1559881843165,
+            "changeTime": 1559881843165,
+            "contentHash": "48120311e73e0310fe099e14cc2e7fea55fab5d0"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/setExpId/setExpId.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/setExpId/setExpId.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1559881843166,
+            "changeTime": 1559881843166,
+            "contentHash": "aaccd1786d76f227f7af53da7058f63f8aa3c14e"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/setExpId/setExpId.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/setExpId/setExpId.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1559881843166,
+            "changeTime": 1559881843166,
+            "contentHash": "3eb7d547ead7f9611baf1f7ee880973ccb65889c"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/setStartUrl/setStartUrl.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/setStartUrl/setStartUrl.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1559881843167,
+            "changeTime": 1559881843167,
+            "contentHash": "c316eafc66550ac47bf0727e2aa4adf143900cc2"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/setStartUrl/setStartUrl.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/setStartUrl/setStartUrl.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1559881843168,
+            "changeTime": 1559881843168,
+            "contentHash": "36d4cf2f3ee9039bdae4d29a0056923260d7373b"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SiteLogin.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SiteLogin.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 255,
+            "modifiedTime": 1559881843169,
+            "changeTime": 1559881843169,
+            "contentHash": "d9a9acc4622f13b4d159b1750db4f5f9127a765f"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SiteLogin.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SiteLogin.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1254,
+            "modifiedTime": 1559881843175,
+            "changeTime": 1559881843175,
+            "contentHash": "bc708781ea43467adf9e0efda09caf0e4abc96ba"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SiteHeader.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SiteHeader.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 264,
+            "modifiedTime": 1559881843176,
+            "changeTime": 1559881843176,
+            "contentHash": "138f6904f205a4a30221efb67b6979fa975ec342"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SiteHeader.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SiteHeader.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1214,
+            "modifiedTime": 1559881843177,
+            "changeTime": 1559881843177,
+            "contentHash": "0a710387c2669b94a3224b8016f37d0a3fc20948"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SiteFooter.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SiteFooter.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 264,
+            "modifiedTime": 1559881843178,
+            "changeTime": 1559881843178,
+            "contentHash": "232293ecee4285c11403ec9b03faf3b767087ee3"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SiteFooter.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SiteFooter.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 77,
+            "modifiedTime": 1559881843179,
+            "changeTime": 1559881843179,
+            "contentHash": "8c9f2b97bbfa52fdef76795bfea4a72ea95d3258"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SitePoweredBy.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SitePoweredBy.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 271,
+            "modifiedTime": 1559881843180,
+            "changeTime": 1559881843180,
+            "contentHash": "5d884890f66a66d23de686d6472b3f41c96511ca"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SitePoweredBy.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components/SitePoweredBy.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 532,
+            "modifiedTime": 1559881843181,
+            "changeTime": 1559881843181,
+            "contentHash": "353f26acfff5ff089406bc9b6029fec483f8360f"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesLogin.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesLogin.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 354,
+            "modifiedTime": 1559881843183,
+            "changeTime": 1559881843183,
+            "contentHash": "3827c9cfc61ad0a29e4146583d5d3ea7cdf35521"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesLogin.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesLogin.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 143,
+            "modifiedTime": 1559881843183,
+            "changeTime": 1559881843183,
+            "contentHash": "d494d65b30936c6c6cc4ea317ca0be26fefd0899"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesLanding.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesLanding.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1559881843185,
+            "changeTime": 1559881843185,
+            "contentHash": "e55a658fc1cd3d0a43058d8cf7fbdf24237d0142"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesLanding.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesLanding.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 159,
+            "modifiedTime": 1559881843186,
+            "changeTime": 1559881843186,
+            "contentHash": "f4f56310b743abd6983739cb9fb38a89ed8bd5d9"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesSelfReg.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesSelfReg.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 368,
+            "modifiedTime": 1559881843188,
+            "changeTime": 1559881843188,
+            "contentHash": "d56ab5ee9735cf4332297ba023b16611d1a8822c"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesSelfReg.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesSelfReg.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1835,
+            "modifiedTime": 1559881843189,
+            "changeTime": 1559881843189,
+            "contentHash": "8740a361c26a708331f96b5d59b82154d2efcf9c"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteRegister.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteRegister.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1559881843190,
+            "changeTime": 1559881843190,
+            "contentHash": "6910007d9ae1805ea265e88f1d039593025e0cbf"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteRegister.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteRegister.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2535,
+            "modifiedTime": 1559881843191,
+            "changeTime": 1559881843191,
+            "contentHash": "41ff51ebecfc21b5b03567851586edbc5fefc6bf"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesSelfRegConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesSelfRegConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 388,
+            "modifiedTime": 1559881843193,
+            "changeTime": 1559881843193,
+            "contentHash": "2cd36b71fe7e0752eb65977344d1d9ce67d0c5a9"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesSelfRegConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesSelfRegConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1369,
+            "modifiedTime": 1559881843194,
+            "changeTime": 1559881843194,
+            "contentHash": "9bd974d33dbf89a831056f0b8e84b9b425e7df18"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/UnderConstruction.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/UnderConstruction.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 375,
+            "modifiedTime": 1559881843195,
+            "changeTime": 1559881843195,
+            "contentHash": "60b5bcfd35b6ca65b4ffe6257be5b6de2fb85958"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/UnderConstruction.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/UnderConstruction.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 819,
+            "modifiedTime": 1559881843203,
+            "changeTime": 1559881843203,
+            "contentHash": "7e44e8eff2115cba3f9494ac0ebac64ba628e919"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/IdeasHome.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/IdeasHome.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1559881843205,
+            "changeTime": 1559881843205,
+            "contentHash": "77aa91def210e91bffb3ad70e8c9708ed5c76dd3"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/IdeasHome.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/IdeasHome.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 56,
+            "modifiedTime": 1559881843205,
+            "changeTime": 1559881843205,
+            "contentHash": "321994aef1dc6905bd2f9ea1275cef640575796a"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/AnswersHome.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/AnswersHome.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 373,
+            "modifiedTime": 1559881843207,
+            "changeTime": 1559881843207,
+            "contentHash": "45feed594e754ba9b2b6ccb807123b391e902a44"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/AnswersHome.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/AnswersHome.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 61,
+            "modifiedTime": 1559881843207,
+            "changeTime": 1559881843207,
+            "contentHash": "a82a578935f0381f7ce194fc36f422775d6ab707"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 365,
+            "modifiedTime": 1559881843209,
+            "changeTime": 1559881843209,
+            "contentHash": "296bd18757b0993ad24c5c71acbcd01b7d9b9336"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/CommunitiesTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 254,
+            "modifiedTime": 1559881843210,
+            "changeTime": 1559881843210,
+            "contentHash": "959a24656384758f13bbd30dfa419f0ca6f0392d"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteRegisterConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteRegisterConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 387,
+            "modifiedTime": 1559881843212,
+            "changeTime": 1559881843212,
+            "contentHash": "acceab4fbc1f9eb64b51a2d3b1e01e0e6f231ed5"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteRegisterConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteRegisterConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1336,
+            "modifiedTime": 1559881843212,
+            "changeTime": 1559881843212,
+            "contentHash": "e1c4950e6f20b5744e83b77652be25196945a53b"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/MyProfilePage.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/MyProfilePage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 361,
+            "modifiedTime": 1559881843214,
+            "changeTime": 1559881843214,
+            "contentHash": "60cc2844456f6845757f4dfda5da780b69b53a39"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/MyProfilePage.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/MyProfilePage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5352,
+            "modifiedTime": 1559881843215,
+            "changeTime": 1559881843215,
+            "contentHash": "620edf5c2c314699cb5acd8a29ee2897a7f4be9c"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/StdExceptionTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/StdExceptionTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 392,
+            "modifiedTime": 1559881843216,
+            "changeTime": 1559881843216,
+            "contentHash": "1a708492e45966834106992ddf05f70ab2996e68"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/StdExceptionTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/StdExceptionTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 918,
+            "modifiedTime": 1559881843217,
+            "changeTime": 1559881843217,
+            "contentHash": "ee21ef14d08dc898cc2f7c14b009b44e39843047"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1559881843221,
+            "changeTime": 1559881843221,
+            "contentHash": "2cb5ade03407b85807f6fe92e51331bc66413810"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 363,
+            "modifiedTime": 1559881843223,
+            "changeTime": 1559881843223,
+            "contentHash": "0795cba97d90e8e6f4511bdc6845b4f6ba593a49"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/ChangePassword.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/ChangePassword.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1559881843228,
+            "changeTime": 1559881843228,
+            "contentHash": "46fc5990bc377db4b9667915b727a674911c04c1"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/ChangePassword.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/ChangePassword.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2253,
+            "modifiedTime": 1559881843229,
+            "changeTime": 1559881843229,
+            "contentHash": "ef99757f7f329769d4297658a07069ba6479259a"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/ForgotPassword.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/ForgotPassword.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 380,
+            "modifiedTime": 1559881843230,
+            "changeTime": 1559881843230,
+            "contentHash": "b91a114154358d98ff3b32411cb3cb74198aa971"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/ForgotPassword.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/ForgotPassword.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1734,
+            "modifiedTime": 1559881843231,
+            "changeTime": 1559881843231,
+            "contentHash": "d08010b952d7bc3b249a76a840810bef066c56e8"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteLogin.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteLogin.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 352,
+            "modifiedTime": 1559881843232,
+            "changeTime": 1559881843232,
+            "contentHash": "0c7e33a84e507dd4373f478380887c8311f83f76"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteLogin.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/SiteLogin.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1178,
+            "modifiedTime": 1559881843233,
+            "changeTime": 1559881843233,
+            "contentHash": "cbc0628ee0ca131ce53c251ae3221ba5048f2020"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/ForgotPasswordConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/ForgotPasswordConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 387,
+            "modifiedTime": 1559881843234,
+            "changeTime": 1559881843234,
+            "contentHash": "8d1c27b9688c0160a63184b45b99aa07b17d0fe4"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/ForgotPasswordConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/ForgotPasswordConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1315,
+            "modifiedTime": 1559881843235,
+            "changeTime": 1559881843235,
+            "contentHash": "b36e48b39e4d3b8b31a82c9c5eee2ffffc194ee3"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/FileNotFound.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/FileNotFound.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1559881843236,
+            "changeTime": 1559881843236,
+            "contentHash": "79d2a17995edf11ab057aa9fa11b223b1e77f4bf"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/FileNotFound.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/FileNotFound.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1667,
+            "modifiedTime": 1559881843237,
+            "changeTime": 1559881843237,
+            "contentHash": "5e6c03f7313422001a3df2c492db52fabdc10212"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/BandwidthExceeded.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/BandwidthExceeded.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1559881843238,
+            "changeTime": 1559881843238,
+            "contentHash": "315039d70f6cd0caeb5894c5db8429e523a703f0"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/BandwidthExceeded.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/BandwidthExceeded.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 746,
+            "modifiedTime": 1559881843239,
+            "changeTime": 1559881843239,
+            "contentHash": "af8b65b80f92aa12ee84f138858b6b1253dde9f8"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/Exception.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/Exception.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 380,
+            "modifiedTime": 1559881843242,
+            "changeTime": 1559881843242,
+            "contentHash": "74f99511b131a4636e2cca33144a71a7162e1df3"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/Exception.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/Exception.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1716,
+            "modifiedTime": 1559881843244,
+            "changeTime": 1559881843244,
+            "contentHash": "830bc42abae82f60204235bc55bb4e817329b8db"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/InMaintenance.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/InMaintenance.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1559881843246,
+            "changeTime": 1559881843246,
+            "contentHash": "d9567dfba2041cbcf82f9a012281b3aa40cb9ccf"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/InMaintenance.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/InMaintenance.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 854,
+            "modifiedTime": 1559881843247,
+            "changeTime": 1559881843247,
+            "contentHash": "660848468f184da3bdb013f9fdf96c6104ec33d6"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/Unauthorized.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/Unauthorized.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 374,
+            "modifiedTime": 1559881843249,
+            "changeTime": 1559881843249,
+            "contentHash": "0d81454c6fb6bf7d8803a7e836d6e3f47f902bd6"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/Unauthorized.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages/Unauthorized.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1728,
+            "modifiedTime": 1559881843251,
+            "changeTime": 1559881843251,
+            "contentHash": "e2d900a0e0685865732acee0c84539a31cb8638e"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ChangePasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ChangePasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843254,
+            "changeTime": 1559881843254,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ChangePasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ChangePasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 467,
+            "modifiedTime": 1559881843258,
+            "changeTime": 1559881843258,
+            "contentHash": "769eaed52f3c934b7ad9b57adcb55a922c257168"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteRegisterControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteRegisterControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843259,
+            "changeTime": 1559881843259,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteRegisterControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteRegisterControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 721,
+            "modifiedTime": 1559881843260,
+            "changeTime": 1559881843260,
+            "contentHash": "00a06a0620a60d0ee0118431a169b4ec3ba79891"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteRegisterController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteRegisterController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843262,
+            "changeTime": 1559881843262,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteRegisterController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteRegisterController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2077,
+            "modifiedTime": 1559881843262,
+            "changeTime": 1559881843262,
+            "contentHash": "19e473741cd0e4047e59345c952d815aa05e1ac2"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteLoginControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteLoginControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843264,
+            "changeTime": 1559881843264,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteLoginControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteLoginControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 558,
+            "modifiedTime": 1559881843265,
+            "changeTime": 1559881843265,
+            "contentHash": "676ee62c09240e726b685da56266e2201bf46664"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteLoginController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteLoginController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843267,
+            "changeTime": 1559881843267,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteLoginController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/SiteLoginController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 434,
+            "modifiedTime": 1559881843269,
+            "changeTime": 1559881843269,
+            "contentHash": "45bce0841ca7e53e9891170118879727980b051a"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningSelfRegisterControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningSelfRegisterControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843270,
+            "changeTime": 1559881843270,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningSelfRegisterControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningSelfRegisterControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6197,
+            "modifiedTime": 1559881843271,
+            "changeTime": 1559881843271,
+            "contentHash": "0078ae1357b38fec34ceffb97e7249e51daa04e6"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLandingController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLandingController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843273,
+            "changeTime": 1559881843273,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLandingController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLandingController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 369,
+            "modifiedTime": 1559881843274,
+            "changeTime": 1559881843274,
+            "contentHash": "f0aa4e4a73ec760302173389f42991266a807010"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLoginControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLoginControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843275,
+            "changeTime": 1559881843275,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLoginControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLoginControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 396,
+            "modifiedTime": 1559881843276,
+            "changeTime": 1559881843276,
+            "contentHash": "cb9e706e4f2584adcf80c77bf7fd48a140f907db"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLoginController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLoginController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843278,
+            "changeTime": 1559881843278,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLoginController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLoginController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 516,
+            "modifiedTime": 1559881843279,
+            "changeTime": 1559881843279,
+            "contentHash": "cf9f2476b780b0f6cf19e569521fe72388a25bf6"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/MyProfilePageControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/MyProfilePageControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843280,
+            "changeTime": 1559881843280,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/MyProfilePageControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/MyProfilePageControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2792,
+            "modifiedTime": 1559881843281,
+            "changeTime": 1559881843281,
+            "contentHash": "3dad7650b8dd8e6e57710fec687bf1bb5eff80bd"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/MyProfilePageController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/MyProfilePageController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843283,
+            "changeTime": 1559881843283,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/MyProfilePageController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/MyProfilePageController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1584,
+            "modifiedTime": 1559881843283,
+            "changeTime": 1559881843283,
+            "contentHash": "2e72ea98db541366419984e2a8878f467de5a3e5"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ForgotPasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ForgotPasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843284,
+            "changeTime": 1559881843284,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ForgotPasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ForgotPasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 506,
+            "modifiedTime": 1559881843285,
+            "changeTime": 1559881843285,
+            "contentHash": "66dcdb35e263e3858438516c272143f39594ab6b"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ForgotPasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ForgotPasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843286,
+            "changeTime": 1559881843286,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ForgotPasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ForgotPasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 480,
+            "modifiedTime": 1559881843287,
+            "changeTime": 1559881843287,
+            "contentHash": "f90081d88c1b56f4db006bf0c9022a1b23126145"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ChangePasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ChangePasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843288,
+            "changeTime": 1559881843288,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ChangePasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/ChangePasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 642,
+            "modifiedTime": 1559881843289,
+            "changeTime": 1559881843289,
+            "contentHash": "0bb3c4ec096aa5dd33d79abbb693eb98b3e899a0"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningSelfRegisterController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningSelfRegisterController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843290,
+            "changeTime": 1559881843290,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningSelfRegisterController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningSelfRegisterController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5572,
+            "modifiedTime": 1559881843291,
+            "changeTime": 1559881843291,
+            "contentHash": "ed5ee92fa1fa56d090e83ef0e235b5bf6c188fe7"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843292,
+            "changeTime": 1559881843292,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 469,
+            "modifiedTime": 1559881843292,
+            "changeTime": 1559881843292,
+            "contentHash": "e91f7457a25b5da77131fe41c8f29c04bc7867c2"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegConfirmController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegConfirmController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843293,
+            "changeTime": 1559881843293,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegConfirmController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegConfirmController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1559881843294,
+            "changeTime": 1559881843294,
+            "contentHash": "d699d2c76978ccad1fc33fcd78ed17c360747337"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843296,
+            "changeTime": 1559881843296,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 877,
+            "modifiedTime": 1559881843296,
+            "changeTime": 1559881843296,
+            "contentHash": "84070006a2c57644fd7d707525e9297ec15f91a0"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843297,
+            "changeTime": 1559881843297,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesSelfRegController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2805,
+            "modifiedTime": 1559881843298,
+            "changeTime": 1559881843298,
+            "contentHash": "68250b28cbd25dc5afb432323903534767578a58"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLandingControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLandingControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843298,
+            "changeTime": 1559881843298,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLandingControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/CommunitiesLandingControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 795,
+            "modifiedTime": 1559881843299,
+            "changeTime": 1559881843299,
+            "contentHash": "9fc17f3ba0a097f66fc1467c82c8e1d22398b48f"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningForgotPasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningForgotPasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843301,
+            "changeTime": 1559881843301,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningForgotPasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningForgotPasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1332,
+            "modifiedTime": 1559881843301,
+            "changeTime": 1559881843301,
+            "contentHash": "21d44e671389d01c2035cb54f2a3b22777492713"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843302,
+            "changeTime": 1559881843302,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningLoginFormControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningLoginFormControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1079,
+            "modifiedTime": 1559881843303,
+            "changeTime": 1559881843303,
+            "contentHash": "e1e93bc0b3687bf1d952419a750eb1c08887706f"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningLoginFormController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningLoginFormController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843304,
+            "changeTime": 1559881843304,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningLoginFormController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningLoginFormController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1972,
+            "modifiedTime": 1559881843305,
+            "changeTime": 1559881843305,
+            "contentHash": "f1fd99eb82c4744783af85a86be464c1f8e321ad"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningForgotPasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningForgotPasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1559881843306,
+            "changeTime": 1559881843306,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningForgotPasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/classes/LightningForgotPasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1038,
+            "modifiedTime": 1559881843307,
+            "changeTime": 1559881843307,
+            "contentHash": "326dc096dacead23bcce832cafa8046eeff5821c"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/profiles/custom Community Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/profiles/custom Community Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6105,
+            "modifiedTime": 1559881843313,
+            "changeTime": 1559881843313,
+            "contentHash": "6e5019be67c24df6f1caccde266ab2f8cb753aac"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/sites/custom_Community.site-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/sites/custom_Community.site-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1580,
+            "modifiedTime": 1559881843361,
+            "changeTime": 1559881843361,
+            "contentHash": "69df97bdca7de168573c8d308d50359488b675b0"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/siteDotComSites/custom_Community1.site-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/siteDotComSites/custom_Community1.site-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1559881843362,
+            "changeTime": 1559881843362,
+            "contentHash": "1527770dc5d4d888d2821405de146723950fddb9"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/siteDotComSites/custom_Community1.site",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/siteDotComSites/custom_Community1.site",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 107416,
+            "modifiedTime": 1559881843363,
+            "changeTime": 1559881843363,
+            "contentHash": "25b10ee90b7eb662ba6f84462c5a9ab3d9062389"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/networks/custom Community.network-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/networks/custom Community.network-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4769,
+            "modifiedTime": 1559881843370,
+            "changeTime": 1559881843370,
+            "contentHash": "de9ad2435c7b12ccfe7937b9b5af45fcc1194c88"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/networkBranding/cbcustom_Community.networkBranding-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/networkBranding/cbcustom_Community.networkBranding-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 637,
+            "modifiedTime": 1559881843372,
+            "changeTime": 1559881843372,
+            "contentHash": "1d29950d0fc375cff96a6de28e6ce327218b4438"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/networkBranding/cbcustom_Community.networkBranding",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/networkBranding/cbcustom_Community.networkBranding",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2,
+            "modifiedTime": 1559881843372,
+            "changeTime": 1559881843372,
+            "contentHash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1559881843143,
+            "changeTime": 1559881843143,
+            "contentHash": "94b65d41e40870e77f72cba72966f3bed8bd0800"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1559881843144,
+            "changeTime": 1559881843144,
+            "contentHash": "9f4bb3dd78853fee52f25b5a18949a8603beab6b"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/staticresources/SiteSamples/img",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1559881843146,
+            "changeTime": 1559881843146,
+            "contentHash": "ca36f65b7f8888bd595c26bba98c091a986284ab"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/loginForm",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1559881843153,
+            "changeTime": 1559881843153,
+            "contentHash": "fd718632c89a370e59634cc3aa2c6f67e9702b0c"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/selfRegister",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1559881843155,
+            "changeTime": 1559881843155,
+            "contentHash": "8df7cfb5f48f3f00fcd4dd27c869c4cfdccd250c"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/forgotPassword",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1559881843160,
+            "changeTime": 1559881843160,
+            "contentHash": "6df7eaba9112e9d3d73be83929076ecdb37c6e02"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/SampleLayout",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/SampleLayout",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1559881843162,
+            "changeTime": 1559881843162,
+            "contentHash": "d0b5c94bcf1946f5473bf3ad7d094343777f4cbb"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/CommunitySectionLayout",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/CommunitySectionLayout",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1559881843165,
+            "changeTime": 1559881843165,
+            "contentHash": "cf92cb2712d10d4f59dabff5623ae21f496c05e3"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/setExpId",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/setExpId",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1559881843166,
+            "changeTime": 1559881843166,
+            "contentHash": "11feaa7814348a87d18c4891772d2ec32891466d"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/setStartUrl",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/aura/setStartUrl",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1559881843168,
+            "changeTime": 1559881843168,
+            "contentHash": "932a38c2997891d2654c0893c0e1a4288e7c15ff"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/components",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1559881843181,
+            "changeTime": 1559881843181,
+            "contentHash": "7e3b47b6f015d41da2682d23c08c6bd410b8f4bb"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 1472,
+            "modifiedTime": 1559881843251,
+            "changeTime": 1559881843251,
+            "contentHash": "54a2cf26a57a9ce2c57e7c0f9e4e09990ad938cc"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/sites",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/sites",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1559881843361,
+            "changeTime": 1559881843361,
+            "contentHash": "7f8f6477b7b291321f7bba85d754e16feb846273"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/siteDotComSites",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/siteDotComSites",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1559881843363,
+            "changeTime": 1559881843363,
+            "contentHash": "748351786676a63b1a3a1d2e82251d873aa5ed8f"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/networks",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/networks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1559881843370,
+            "changeTime": 1559881843370,
+            "contentHash": "d4982864e75aa919f4f23b35129b363c7e09ab73"
+        }
+    ],
+    [
+        "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/networkBranding",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jonathan.zhou/Projects/commLayout/force-app/main/default/networkBranding",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1559881843372,
+            "changeTime": 1559881843372,
+            "contentHash": "bfdd9edb2aee28406c9baef3ce8a1f4d66d10dfc"
+        }
+    ]
+]
