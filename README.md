@@ -1,9 +1,4 @@
-# SFDX App
+# Community Cloud for Developers Demo App
 
-## Dev, Build and Test
+This is an SFDX Project that showcases how developers can manage Salesforce communities with SFDX, build custom themes, layouts and pages, and enable passwordless identity
 
-## Resources
-
-## Description of Files and Directories
-
-## Issues
